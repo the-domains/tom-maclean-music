@@ -1,7 +1,8 @@
 name: Tom MacLean Music
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.5
 typography_spectrum: 0.73603
+title: Tom MacLean Music
 cta:
   domain: null
   bucket: null
