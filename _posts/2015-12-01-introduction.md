@@ -1,25 +1,25 @@
 ---
 inFeed: true
-hasPage: true
+hasPage: false
 inNav: false
+isBasedOnUrl: null
 inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-01T10:48:30.530Z'
-dateModified: '2015-12-01T10:48:02.927Z'
-title: Introduction
+datePublished: '2015-12-01T11:07:50.289Z'
+dateModified: '2015-12-01T11:04:25.393Z'
+title: Welcome
 author: []
+sourcePath: _posts/2015-12-01-introduction.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2015-12-01-introduction.md
-published: true
-url: introduction/index.html
-_type: Article
+_type: Blurb
 
 ---
 Welcome to the website of Tom MacLean: - Composer, Guitarist, Bassist, Teacher. 
