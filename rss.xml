@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Tom MacLean Music]]></title>
+        <description><![CDATA[Tom MacLean Music]]></description>
+        <link>https://thegrid.ai/tom-maclean-music/</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Tue, 01 Dec 2015 10:48:40 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/tom-maclean-music/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Introduction]]></title>
+            <description><![CDATA[<article><h1>Introduction</h1><p>Welcome to the website of Tom MacLean: - Composer, Guitarist, Bassist, Teacher. </p></article>]]></description>
+            <link>https://thegrid.ai/tom-maclean-music/introduction/index.html</link>
+            <guid isPermaLink="false">16892770-095f-427a-bf25-99b39467d7d5</guid>
+            <pubDate>Tue, 01 Dec 2015 10:48:30 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
