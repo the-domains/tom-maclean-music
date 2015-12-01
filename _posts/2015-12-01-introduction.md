@@ -6,8 +6,8 @@ inLanguage: null
 starred: false
 keywords: []
 description: ''
-datePublished: '2015-12-01T10:42:11.854Z'
-dateModified: '2015-12-01T10:41:43.950Z'
+datePublished: '2015-12-01T10:48:30.530Z'
+dateModified: '2015-12-01T10:48:02.927Z'
 title: Introduction
 author: []
 authors: []
@@ -22,4 +22,10 @@ url: introduction/index.html
 _type: Article
 
 ---
-Welcome to the website of Tom MacLean: - Composer, Guitarist, Bassist, Teacher.
+Welcome to the website of Tom MacLean: - Composer, Guitarist, Bassist, Teacher. 
+
+Here you can find information on my projects, past and present, as well as details on how to contact me for lessons. 
+
+I hope you enjoy browsing through my site. 
+
+TM - Winter 2015
