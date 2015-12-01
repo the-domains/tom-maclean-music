@@ -1,6 +1,6 @@
 name: Tom MacLean Music
 favicon: null
-layout_spectrum: 0.5
+layout_spectrum: 0
 typography_spectrum: 0.73603
 title: Tom MacLean Music
 cta:
@@ -22,7 +22,7 @@ color:
     - '#fbfefe'
     - '#f65e52'
     - '#6f91ff'
-  brandStrength: 0.5
+  brandStrength: 0.25
   lightness: 0.375
   saturation: 0.5
   rhythmicContrast: 0.5
